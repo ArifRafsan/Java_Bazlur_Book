@@ -1,6 +1,8 @@
 package com.rafsan.java;
 
 public class Person {
+	
+	// 3 fields
 	String name;
 	int age;
 	String mobile;
